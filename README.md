@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working on my Object Oriented Software Development Certificate at the Southern Alberta Institute of Technology (SAIT)<br>👯 I’m looking to collaborate on Java related projects to expand my understanding.  <br>🌱 I’m currently learning HTML/CSS/JavaScript - C#/ASP.Net - Java/Spring<br>⚡ Fun fact : I play paintball casually in a competitive setting. Search up "X Ball" if your curious.
+### 👋 Hey there! I’m Carlos Hernandez-Zelaya
+
+🧱 Aspiring Full-stack developer with a strong foundation in object-oriented programming and practical experience building real-world web, desktop, and mobile applications.
+
+🎓 Recently completed the Object-Oriented Software Development program at SAIT (Southern Alberta Institute of Technology).
+
+🛠 Currently building **IPD Buddy**, a Progressive Web App designed to help contractors streamline job tracking and automate earnings reports. Built with Vue 3, Spring Boot, PostgreSQL, and AWS Cognito.
+
+💡 I enjoy solving real problems with thoughtful, scalable software. I’m especially drawn to clean architecture, good documentation, and continuous learning.
+
+🚀 Looking to collaborate on Java, Spring Boot, and full-stack projects where I can keep growing and building cool stuff with great people.
+
+🎯 Always improving: Currently leveling up my understanding of TypeScript, Docker deployment, and cloud hosting workflows.
+
+⚡ Fun fact: I play competitive-style paintball when I can. Search up "X-Ball" if you want a taste of chaos + strategy.
+
 
 
 ## 🌐 Socials:
